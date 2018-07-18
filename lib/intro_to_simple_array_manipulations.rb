@@ -23,5 +23,5 @@ def shift_with_args(aIn)
 end
 
 def using_concat(aIn, a2In)
-
+  aIn.concat(a2In)
 end
