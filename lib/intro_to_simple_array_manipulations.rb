@@ -41,3 +41,7 @@ end
 def using_delete(aIn, sIn)
   aIn.delete(sIn)
 end
+
+def using_delete_at(aIn, nIn)
+  aIn.delete_at(nIn)
+end
