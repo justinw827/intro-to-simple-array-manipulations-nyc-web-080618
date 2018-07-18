@@ -17,3 +17,11 @@ end
 def using_shift(aIn)
   aIn.shift
 end
+
+def shift_with_args(aIn)
+  aIn.shfit(2)
+end
+
+def using_concat(aIn, a2In)
+  
+end
