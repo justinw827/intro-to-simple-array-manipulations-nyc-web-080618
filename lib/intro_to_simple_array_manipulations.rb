@@ -19,7 +19,7 @@ def using_shift(aIn)
 end
 
 def shift_with_args(aIn)
-  aIn.shfit(2)
+  aIn.shift(2)
 end
 
 def using_concat(aIn, a2In)
