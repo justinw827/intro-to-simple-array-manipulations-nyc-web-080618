@@ -25,3 +25,7 @@ end
 def using_concat(aIn, a2In)
   aIn.concat(a2In)
 end
+
+def using_insert(aIn, eIn)
+  aIn.insert(4, eIn)
+end
