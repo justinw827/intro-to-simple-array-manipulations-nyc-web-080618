@@ -33,3 +33,11 @@ end
 def using_uniq(aIn)
   aIn.uniq
 end
+
+def using_flatten(aIn)
+  aIn.flatten
+end
+
+def using_delete(aIn, sIn)
+  aIn.delete(sIn)
+end
